@@ -18,8 +18,8 @@ I'm TAKING, a passionate student with a strong focus on AI, data analysis, and s
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
 
-- **Tools and IDEs**:  
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-0078D4?style=flat-square&logo=visual-studio-code)
+- **Tools and IDEs**:
+  ![Visual Studio Code](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=visual-studio-code)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
 
