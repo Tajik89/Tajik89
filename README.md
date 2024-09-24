@@ -17,6 +17,7 @@ I'm TAKING, a passionate student with a strong focus on AI, data analysis, and s
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+  ![Static Badge](https://img.shields.io/badge/scikit-learn)
 
 - **Tools and IDEs**:
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
